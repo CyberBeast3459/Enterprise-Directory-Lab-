@@ -51,7 +51,6 @@ Client joined to the domain
 Access control validation
 Screenshots
 
-Then make a table like this:
 
 Screenshot	Description
 OU Structure	Active Directory organizational structure
