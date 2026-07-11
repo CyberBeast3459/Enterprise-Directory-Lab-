@@ -109,7 +109,6 @@ Group Policy application
 Network share access
 Screenshots
 
-I'd make this the biggest section.
 
 Active Directory
 Screenshot	Description
