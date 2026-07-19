@@ -1,7 +1,7 @@
 Overview
 Enterprise Active Directory Lab
 
-A Windows Server 2022 enterprise lab demonstrating Active Directory Domain Services, Group Policy, SMB file sharing, NTFS permissions, and Role-Based Access Control (RBAC).
+A Windows Server 2025 enterprise lab demonstrating Active Directory Domain Services, Group Policy, SMB file sharing, NTFS permissions, and Role-Based Access Control (RBAC).
 
 Project Overview
 
